@@ -1,5 +1,7 @@
 ![Sync Issue to Azure DevOps work item](https://github.com/danhellem/github-actions-issue-to-work-item/workflows/Sync%20Issue%20to%20Azure%20DevOps%20work%20item/badge.svg?event=issues)
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/57ef1b2f-b2be-425c-b5b8-58870a2a0d73.svg?orgId=650162616495)](https://app.soluble.cloud/repos/details/github.com/james-leha/github-actions-issue-to-work-item?orgId=650162616495)  
+
 # Sync GitHub issue to Azure DevOps work item
 
 Create work item in Azure DevOps when a GitHub Issue is created
